@@ -1,4 +1,4 @@
-### Olá, eu sou a Bianca Aguiar. Estudante de desenvolvimento FrontEnd pela Blue EdTech e estou cursando Análise e Desenvolvimento de Sistemas no IFPI.
+### Olá, eu sou a Bianca Aguiar. Estudante de desenvolvimento Frontend pela Blue EdTech e estou cursando Análise e Desenvolvimento de Sistemas no IFPI.
 
 <div align="center">
   <a href="https://github.com/SraSidle">
