@@ -12,6 +12,7 @@
   <img align="center" alt="Bia-Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="center" alt="Bia-Postgres" heigth="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img align="center" alt="Bia-React" heigth="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Bia-TypeScript" heigth="40" width="50" src="https://th.bing.com/th/id/R.ea7caf8dee69786bafe9d919b5034595?rik=Af4u%2fwfvkijt7w&pid=ImgRaw&r=0" />
   
   ## Meus contatos
  
